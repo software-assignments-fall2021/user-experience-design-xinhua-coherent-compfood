@@ -28,7 +28,7 @@ TODO
 TODO
 ![](https://github.com/software-students-fall2021/user-experience-design-xinhua-coherent-compfood/blob/main/ux-design/wireframe_4.png)
 
-## Previous orders / what 
+## Previous orders / what did I receive those many days agoooo?
 
 TODO
 ![](https://github.com/software-students-fall2021/user-experience-design-xinhua-coherent-compfood/blob/main/ux-design/wireframe_5.png)
