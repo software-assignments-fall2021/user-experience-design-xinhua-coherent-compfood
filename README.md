@@ -16,6 +16,7 @@ TODO
 ## Restaurant menu / what sustenance is available for me to receive?
 
 TODO
+![](https://github.com/software-students-fall2021/user-experience-design-xinhua-coherent-compfood/blob/main/ux-design/wireframe_2a.png)
 ![](https://github.com/software-students-fall2021/user-experience-design-xinhua-coherent-compfood/blob/main/ux-design/wireframe_2b.png)
 
 ## App selector / which delivery app do I want to use?
